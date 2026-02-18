@@ -19,7 +19,7 @@ DataAnalysisTool is built around:
 - Nginx configuration
 - Structured import utilities (CSV → SQL)
 
-It is a modular API system for structured database interaction and controlled data management.
+It’s a structured API for inspecting and working with relational databases.
 
 ---
 
@@ -129,8 +129,6 @@ Supporting modules:
 - `modules/config_store.py`
 - `modules/responses.py`
 
-Each module has a focused responsibility.
-
 ---
 
 ## Error Handling
@@ -218,8 +216,6 @@ DataAnalysisTool is built around:
 - Dockerized reproducibility
 - Configuration-driven imports
 
-Each component performs one clear responsibility.
-
 ---
 
 ## Current Development Focus
@@ -229,8 +225,6 @@ Each component performs one clear responsibility.
 - Strengthening validation logic
 - Improving structured import tooling
 - Stabilizing configuration handling
-
-Feature depth will expand once core service stability is complete.
 
 ---
 
