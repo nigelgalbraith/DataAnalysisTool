@@ -80,7 +80,6 @@ Located in:
 
 ```
 imports/
-imports_sample/
 ```
 
 ---
@@ -195,7 +194,6 @@ DataAnalysisTool/
 │   ├── csv/
 │   ├── sql/
 │
-├── imports_sample/
 │
 ├── docker-compose.yml
 ├── api.Dockerfile
