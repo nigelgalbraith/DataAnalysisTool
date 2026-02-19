@@ -188,12 +188,20 @@ DataAnalysisTool/
 │   ├── app.py
 │   ├── routes/
 │   ├── modules/
-│
+|
+├── site/
+|   ├── index.html
+|   ├── src/
+|   ├── style/
+|
 ├── imports/
 │   ├── config/
 │   ├── csv/
 │   ├── sql/
 │
+├── storage/
+│   ├── backups/
+│   ├── config/
 │
 ├── docker-compose.yml
 ├── api.Dockerfile
